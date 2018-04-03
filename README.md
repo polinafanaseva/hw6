@@ -7,3 +7,5 @@
 # Часть 2.
 1. https://github.com/polinafanaseva/hw6/blob/master/eKT5555C3ц5dDFeHRQ.jpg
 2. https://github.com/polinafanaseva/hw6/blob/master/FullSizeRender.jpg
+
+С дополнениями "man", "yesterday" могут употребляться оба глагола "say" и "tell". С дополнениями "word", "goodbye" может употребляться только глагол "say". С дополнениями "lie", "tale" может употребляться только глагол "tell".
